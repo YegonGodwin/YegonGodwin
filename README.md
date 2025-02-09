@@ -33,6 +33,7 @@ Vs code
 📫 Let’s Connect!
 I’m always open to collaborating on exciting projects, discussing ideas, or just having a chat. Feel free to reach out to me.
 X: https://x.com/FlynnGoodie
+Instagram: https://instagram.com/godwinkibette
 
 <!---
 YegonGodwin/YegonGodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

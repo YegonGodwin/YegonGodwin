@@ -43,6 +43,17 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FlynnGoodie)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/godwinkibette)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwinkibet)
+# GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&theme=radical)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact)
+
+## Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=radical)
 <!---
 YegonGodwin/YegonGodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

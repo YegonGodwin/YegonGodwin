@@ -1,17 +1,18 @@
 👋 Hello, World! I'm Godwin Kibet
 Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scientist with a love for solving complex problems, building innovative solutions, and turning ideas into reality. Whether it's coding, designing, or collaborating, I thrive on creating impactful and elegant solutions that make a difference.
 
-🚀 What I Do
-💻 Coding Enthusiast: I specialize in Python, JavaScript, R and enjoy working on web development, machine learning and Data analysis
+### 🚀 What I Do
 
-🛠️ Problem Solver: I love tackling challenges head-on and finding creative solutions to real-world problems.
+**💻 Coding Enthusiast:** I specialize in Python, JavaScript, R and enjoy working on web development, machine learning, and data analysis.
 
-🤝 Collaborator: I believe in the power of teamwork and open-source contributions to build something extraordinary.
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**🛠️ Problem Solver:** I love tackling challenges head-on and finding creative solutions to real-world problems.
+
+**🤝 Collaborator:** I believe in the power of teamwork and open-source contributions to build something extraordinary.
 
 ###🛠️ Tech Stack
-Here are some of the tools and technologies I work with:
 
-Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,22 +25,38 @@ Frameworks & Libraries
 Node.js
 Django
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-Scikit-learn
-pandas and numpy
-mtaplotlib
 
-Tools & Platforms
-Git
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-Vs code
+ Frameworks & Libraries
+ React  
+
+ Node.js  
+
+ Django  
+
+ Firebase  
+
+ Scikit-learn  
+
+ Pandas  NumPy  
+
+ Matplotlib
+
+ Tools & Platforms
+ Git  
+
+ Docker  
+
+ VS Code
+
+
+
 
 📫 Let’s Connect!
 I’m always open to collaborating on exciting projects, discussing ideas, or just having a chat. Feel free to reach out to me.
 ### 🌐 Connect with Me
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FlynnGoodi)
-X: https://x.com/FlynnGoodie
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FlynnGoodie)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/godwinkibette)
-Instagram: https://instagram.com/godwinkibette
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwinkibet)
 <!---
 YegonGodwin/YegonGodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

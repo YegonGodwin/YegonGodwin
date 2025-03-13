@@ -1,6 +1,8 @@
 👋 Hello, World! I'm Godwin Kibet
 Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scientist with a love for solving complex problems, building innovative solutions, and turning ideas into reality. Whether it's coding, designing, or collaborating, I thrive on creating impactful and elegant solutions that make a difference.
 
+---
+ 
 ### 🚀 What I Do
 
 **💻 Coding Enthusiast:** I specialize in Python, JavaScript, R and enjoy working on web development, machine learning, and data analysis.
@@ -11,14 +13,18 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 
 **🤝 Collaborator:** I believe in the power of teamwork and open-source contributions to build something extraordinary.
 
+***
+
 ###🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-R
+## R Code 
 PHP
+
+***
 
 ### 🛠️ Frameworks & Libraries
 
@@ -31,11 +37,15 @@ PHP
 - [![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
+   ---
+
 ### ⚙️ Tools & Platforms
 
 - [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 - [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 - [![VS Code](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+  ---
 
 📫 Let’s Connect!
 

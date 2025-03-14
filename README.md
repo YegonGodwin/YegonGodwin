@@ -7,8 +7,6 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 
 **💻 Coding Enthusiast:** I specialize in Python, JavaScript, R and enjoy working on web development, machine learning, and data analysis.
 
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
 **🛠️ Problem Solver:** I love tackling challenges head-on and finding creative solutions to real-world problems.
 
 **🤝 Collaborator:** I believe in the power of teamwork and open-source contributions to build something extraordinary.

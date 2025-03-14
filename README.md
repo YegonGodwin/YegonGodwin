@@ -33,9 +33,9 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 - [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 - [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 - [![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-- - [![Shiny](https://img.shields.io/badge/shiny-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://shiny.posit.co/)
+- [![Shiny](https://img.shields.io/badge/shiny-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://shiny.posit.co/)
 - [![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-  - [![Shiny](https://img.shields.io/badge/shiny-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://shiny.posit.co/)
+
    ---
 
 ### ⚙️ Tools & Platforms
@@ -43,7 +43,7 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 - [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 - [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 - [![VS Code](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-- - [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
+- [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
 
   ---
 
@@ -66,15 +66,16 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 ---
 ### 🏅 GitHub Profile Badges
 
-- **Followers**: [![GitHub Followers](https://img.shields.io/github/followers/YegonGodwin?label=Followers&style=for-the-badge&color=orange)](https://github.com/YegonGodwin)
+- **Followers**:           [![GitHub Followers](https://img.shields.io/github/followers/YegonGodwin?label=Followers&style=for-the-badge&color=orange)](https://github.com/YegonGodwin)
 - **Public Repositories**: [![GitHub Repos](https://img.shields.io/github/repo-size/YegonGodwin/YegonGodwin?label=Repos&style=for-the-badge&color=blue)](https://github.com/yourusername?tab=repositories)
 - **Contribution Streak**: [![GitHub Streak](https://img.shields.io/github/streak-stats/YegonGodwin?label=Streak&style=for-the-badge&color=green)](https://github.com/YegonGodwin)
-- **GitHub Trophy**: [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YegonGodwin&theme=dark&row=1&column=5&margin-w=15&margin-h=15)](https://github.com/YegonGodwin)
+ ---
+- **GitHub Trophy**:       [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YegonGodwin&theme=dark&row=1&column=5&margin-w=15&margin-h=15)](https://github.com/YegonGodwin)
 
 
 ---
 
-## Streaks
+## ✨✨ Mascot
 
 ![GitHub Streak](https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8R2l0SHVifGVufDB8fDB8fHww)
 <!---

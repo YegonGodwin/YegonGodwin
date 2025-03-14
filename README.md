@@ -3,7 +3,7 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 
 ---
  
-### 🚀 What I Do
+### 🚀🔥 What I Do
 
 **💻 Coding Enthusiast:** I specialize in Python, JavaScript, R and enjoy working on web development, machine learning, and data analysis.
 
@@ -13,19 +13,13 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 
 **🤝 Collaborator:** I believe in the power of teamwork and open-source contributions to build something extraordinary.
 
----
- 🔥 Interesting Contributions
-
-- Contributed to [airbnb/javascript](https://github.com/airbnb/javascript), a popular JavaScript Style Guide.
-
 ***
 
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
@@ -36,12 +30,12 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 - [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 - [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
 - [![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-- [![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 - [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 - [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 - [![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+- - [![Shiny](https://img.shields.io/badge/shiny-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://shiny.posit.co/)
 - [![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-
+  - [![Shiny](https://img.shields.io/badge/shiny-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://shiny.posit.co/)
    ---
 
 ### ⚙️ Tools & Platforms
@@ -49,6 +43,7 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 - [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 - [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 - [![VS Code](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+- - [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
 
   ---
 
@@ -60,17 +55,27 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FlynnGoodie)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/godwinkibette)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwinkibet)
-# GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&theme=radical)
+---
+### 📊 My GitHub Stats
 
-## Most Used Languages
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+### 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&theme=dark)
+---
+### 🏅 GitHub Profile Badges
+
+- **Followers**: [![GitHub Followers](https://img.shields.io/github/followers/YegonGodwin?label=Followers&style=for-the-badge&color=orange)](https://github.com/YegonGodwin)
+- **Public Repositories**: [![GitHub Repos](https://img.shields.io/github/repo-size/YegonGodwin/YegonGodwin?label=Repos&style=for-the-badge&color=blue)](https://github.com/yourusername?tab=repositories)
+- **Contribution Streak**: [![GitHub Streak](https://img.shields.io/github/streak-stats/YegonGodwin?label=Streak&style=for-the-badge&color=green)](https://github.com/YegonGodwin)
+- **GitHub Trophy**: [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YegonGodwin&theme=dark&row=1&column=5&margin-w=15&margin-h=15)](https://github.com/YegonGodwin)
+
+
+---
 
 ## Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=radical)
 ![GitHub Streak](https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8R2l0SHVifGVufDB8fDB8fHww)
 <!---
 YegonGodwin/YegonGodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

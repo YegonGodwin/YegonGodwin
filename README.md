@@ -13,16 +13,21 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 
 **🤝 Collaborator:** I believe in the power of teamwork and open-source contributions to build something extraordinary.
 
+---
+ 🔥 Interesting Contributions
+
+- Contributed to [airbnb/javascript](https://github.com/airbnb/javascript), a popular JavaScript Style Guide.
+
 ***
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-## R Code 
-PHP
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
 ***
 

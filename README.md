@@ -50,7 +50,7 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 I’m always open to collaborating on exciting projects, discussing ideas, or just having a chat. Feel free to reach out to me.
 ### 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FlynnGoodie)
+[![X](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FlynnGoodie)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/godwinkibette)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwinkibet)
 

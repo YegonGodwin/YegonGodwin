@@ -66,7 +66,7 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 
 - **Followers**:           [![GitHub Followers](https://img.shields.io/github/followers/YegonGodwin?label=Followers&style=for-the-badge&color=orange)](https://github.com/YegonGodwin)
 - **Public Repositories**: [![GitHub Repos](https://img.shields.io/github/repo-size/YegonGodwin/YegonGodwin?label=Repos&style=for-the-badge&color=blue)](https://github.com/yourusername?tab=repositories)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kibette&theme=default&mascot=true)
 - **Contribution Streak**: [![GitHub Streak](https://img.shields.io/github/streak-stats/YegonGodwin?label=Streak&style=for-the-badge&color=green)](https://github.com/YegonGodwin)
  ---
 - **GitHub Trophy**:       [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YegonGodwin&theme=dark&row=1&column=5&margin-w=15&margin-h=15)](https://github.com/YegonGodwin)

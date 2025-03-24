@@ -42,9 +42,23 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
  [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
  [![VS Code](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
  [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
-
+---
+### 💻 Most Used Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other)
   ---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YegonGodwin&theme=github)
+![Languages](https://img.shields.io/badge/-Batchfile-000000?style=flat&logo=gnubash)
+![Languages](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
+![Languages](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+---
+
+### 5. **GitHub Skyline**
+For a 3D visualization of your activity:
+```markdown
+[![GitHub Skyline](https://skyline.github.com/YegonGodwin/2023)](https://skyline.github.com)
+
+---
 
 📫 Let’s Connect!
 
@@ -59,7 +73,6 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 ### 📊 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-### 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&theme=dark)
 ---

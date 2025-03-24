@@ -43,6 +43,7 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
  [![VS Code](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
  [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other)
   ---
 
 📫 Let’s Connect!

@@ -50,6 +50,15 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true)
 ---
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YegonGodwin&theme=default&hide_border=true" alt="GitHub Streak"/>
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YegonGodwin&theme=github)
 

@@ -104,8 +104,7 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 ---
 
 ## ✨✨ Mascot
-
-![GitHub Streak](https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8R2l0SHVifGVufDB8fDB8fHww)
+**coming soon... 🤡😈😎**
 <!---
 YegonGodwin/YegonGodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

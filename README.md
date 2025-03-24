@@ -44,7 +44,7 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
  [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
 ---
 ### 💻 Most Used Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other&theme=dark)
   ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YegonGodwin&theme=github)
@@ -54,13 +54,11 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 ---
 ![Languages](https://img.shields.io/badge/-Batchfile-000000?style=flat&logo=gnubash)
 ![Languages](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
-![Languages](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Languages](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
 ![Languages](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Languages](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![Languages](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 
-<img src="https://img.shields.io/badge/-Batchfile-000000?style=flat&logo=gnubash" alt="Batchfile"> <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c" alt="C"> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B" alt="C++"> <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r" alt="R"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" alt="Python"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript"> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" alt="PHP">
 ## My Coding Journey Timeline
 
 ```mermaid
@@ -95,8 +93,6 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 ### 📊 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&theme=dark)
 ---
 ### 🏅 GitHub Profile Badges
 

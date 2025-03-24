@@ -51,7 +51,7 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true)
 ---
 ## Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YegonGodwin&theme=github)
 

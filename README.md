@@ -52,12 +52,25 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 ![Languages](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
 ![Languages](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ---
+## My Coding Journey Timeline
+
+```mermaid
+gantt
+    title My Programming Language Timeline
+    dateFormat  YYYY-MM
+    section Languages
+    Batchfile   :2020-12, 2021-05
+    C           :2021-05, 2021-10
+    C++         :2021-10, 2022-03
+    Python      :2022-03, 2023-11
+```
 
 ### 5. **GitHub Skyline**
 For a 3D visualization of your activity:
 ```markdown
 [![GitHub Skyline](https://skyline.github.com/YegonGodwin/2023)](https://skyline.github.com)
 
+```
 ---
 
 📫 Let’s Connect!

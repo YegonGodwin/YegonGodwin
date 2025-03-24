@@ -46,11 +46,13 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 ### 💻 Most Used Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other&theme=dark)
   ---
+  ### 📊 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YegonGodwin&theme=github)
-![Languages](https://img.shields.io/badge/-Batchfile-000000?style=flat&logo=gnubash)
-![Languages](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
-![Languages](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+
 ---
 ![Languages](https://img.shields.io/badge/-Batchfile-000000?style=flat&logo=gnubash)
 ![Languages](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
@@ -89,10 +91,6 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/godwinkibette)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwinkibet)
 
----
-### 📊 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ---
 ### 🏅 GitHub Profile Badges
 

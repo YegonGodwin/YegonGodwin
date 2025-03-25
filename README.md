@@ -1,16 +1,33 @@
-👋 Hello, World! I'm Godwin Kibet
-Welcome to my GitHub universe! I'm a passionate *Software Developer* and *Data Scientist* with a love for solving complex problems, building innovative solutions, and turning ideas into reality. Whether it's coding, designing, or collaborating, I thrive on creating impactful and elegant solutions that make a difference.
+# 🌌 Welcome to My GitHub Universe!
 
-![Visitors](https://visitor-badge.laobi.ink/badge?page_id=YegonGodwin.YegonGodwin) 
-### 🚀🔥 What I Do
+<div align="center">
+  
+![Banner](https://via.placeholder.com/1280x400/16213E/FFFFFF?text=Kibette's+Code+Galaxy) <!-- Replace with actual banner -->
 
-**💻 Coding Enthusiast:** I specialize in Python, JavaScript, R and enjoy working on web development, machine learning, and data analysis.
+</div>
 
-**🛠️ Problem Solver:** I love tackling challenges head-on and finding creative solutions to real-world problems.
+## 🚀 About Me
 
-**🤝 Collaborator:** I believe in the power of teamwork and open-source contributions to build something extraordinary.
+<div align="center">
 
-***
+| **Role**              | **Skills**               | **Passions**            |
+|-----------------------|--------------------------|-------------------------|
+| 💻 Software Developer | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) | 🧠 Machine Learning |
+| 📊 Data Scientist     | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | 🔍 Data Analysis |
+| 🌐 Problem Solver     | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | 🛠️ Building Solutions |
+
+</div>
+
+## 🔥 Core Strengths
+
+```mermaid
+pie
+    title What I Bring
+    "Creative Problem Solving" : 35
+    "Clean Code" : 30
+    "Data Insights" : 25
+    "Collaboration" : 10
+```
 
 ### 🛠️ Tech Stack
 

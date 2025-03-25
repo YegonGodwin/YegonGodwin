@@ -1,6 +1,14 @@
 👋 Hello, World! I'm Godwin Kibet
 Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scientist with a love for solving complex problems, building innovative solutions, and turning ideas into reality. Whether it's coding, designing, or collaborating, I thrive on creating impactful and elegant solutions that make a difference.
 
+Welcome to my GitHub universe! I’m a passionate **Software Developer** and **Data Scientist** who thrives on solving complex problems, building innovative solutions, and turning ideas into reality. Whether it’s coding, designing, or collaborating, I’m all about creating impactful and elegant solutions that make a difference.
+![Welcome Banner](assets/banner.png)
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
+![Contributors](https://img.shields.io/github/contributors/godwinkibet/repo?style=flat-square)
+![Stars](https://img.shields.io/github/stars/godwinkibet/repo?style=flat-square)
+![Forks](https://img.shields.io/github/forks/godwinkibet/repo?style=flat-square)
+![Visitors](https://visitor-badge.laobi.ink/badge?page_id=godwinkibet.godwinkibet)
 ---
  
 ### 🚀🔥 What I Do

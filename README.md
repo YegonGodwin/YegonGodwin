@@ -50,6 +50,15 @@ Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scie
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true)
 ---
+## 📊 Project Structure
+```mermaid
+graph TD
+  A[Client] --> B[Server]
+  B --> C[Database]
+```
+## 🎥 Demo
+![Demo GIF](demo.gif)
+
 ## Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true&random=123)
 

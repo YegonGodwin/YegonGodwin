@@ -2,14 +2,6 @@
 Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scientist with a love for solving complex problems, building innovative solutions, and turning ideas into reality. Whether it's coding, designing, or collaborating, I thrive on creating impactful and elegant solutions that make a difference.
 
 Welcome to my GitHub universe! I’m a passionate **Software Developer** and **Data Scientist** who thrives on solving complex problems, building innovative solutions, and turning ideas into reality. Whether it’s coding, designing, or collaborating, I’m all about creating impactful and elegant solutions that make a difference.
-![Welcome Banner](assets/banner.png)
-
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
-![Contributors](https://img.shields.io/github/contributors/godwinkibet/repo?style=flat-square)
-![Stars](https://img.shields.io/github/stars/godwinkibet/repo?style=flat-square)
-![Forks](https://img.shields.io/github/forks/godwinkibet/repo?style=flat-square)
-![Visitors](https://visitor-badge.laobi.ink/badge?page_id=godwinkibet.godwinkibet)
----
  
 ### 🚀🔥 What I Do
 
@@ -58,6 +50,8 @@ Welcome to my GitHub universe! I’m a passionate **Software Developer** and **D
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true)
 ---
+## Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true&random=123)
 ## 📊 Project Structure
 ```mermaid
 graph TD
@@ -66,9 +60,6 @@ graph TD
 ```
 ## 🎥 Demo
 ![Demo GIF](demo.gif)
-
-## Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true&random=123)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YegonGodwin&theme=github)
 
@@ -115,7 +106,6 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 
 - **Followers**:           [![GitHub Followers](https://img.shields.io/github/followers/YegonGodwin?label=Followers&style=for-the-badge&color=orange)](https://github.com/YegonGodwin)
 - **Public Repositories**: [![GitHub Repos](https://img.shields.io/github/repo-size/YegonGodwin/YegonGodwin?label=Repos&style=for-the-badge&color=blue)](https://github.com/yourusername?tab=repositories)
-- **Contribution Streak**: [![GitHub Streak](https://streak-stats.demolab.com/?user=YegonGodwin&theme=dark)](https://git.io/streak-stats)
  ---
 - **GitHub Trophy**:       [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YegonGodwin&theme=dark&row=1&column=5&margin-w=15&margin-h=15)](https://github.com/YegonGodwin)
 

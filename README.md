@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner](https://via.placeholder.com/1280x400/16213E/FFFFFF?text=YegonGodwin's+Code+Galaxy) <!-- Replace with actual banner -->
+ <!-- Replace with actual banner -->
 
 </div>
 
@@ -14,7 +14,7 @@
 |-----------------------|--------------------------|-------------------------|
 | 💻 Software Developer | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) | 🧠 Machine Learning |
 | 📊 Data Scientist     | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | 🔍 Data Analysis |
-| 🌐 Problem Solver     | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | 🛠️ Building Solutions |
+| 🌐 Problem Solver     | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Shiny](https://img.shields.io/badge/-Shiny-092E20?logo=Shiny&logoColor=white) | 🛠️ Building Solutions |
 
 </div>
 

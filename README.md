@@ -1,8 +1,7 @@
 👋 Hello, World! I'm Godwin Kibet
-Welcome to my GitHub universe! I'm a passionate Software Developer and Data Scientist with a love for solving complex problems, building innovative solutions, and turning ideas into reality. Whether it's coding, designing, or collaborating, I thrive on creating impactful and elegant solutions that make a difference.
+Welcome to my GitHub universe! I'm a passionate *Software Developer* and *Data Scientist* with a love for solving complex problems, building innovative solutions, and turning ideas into reality. Whether it's coding, designing, or collaborating, I thrive on creating impactful and elegant solutions that make a difference.
 
-Welcome to my GitHub universe! I’m a passionate **Software Developer** and **Data Scientist** who thrives on solving complex problems, building innovative solutions, and turning ideas into reality. Whether it’s coding, designing, or collaborating, I’m all about creating impactful and elegant solutions that make a difference.
- 
+![Visitors](https://visitor-badge.laobi.ink/badge?page_id=YegonGodwin.YegonGodwin) 
 ### 🚀🔥 What I Do
 
 **💻 Coding Enthusiast:** I specialize in Python, JavaScript, R and enjoy working on web development, machine learning, and data analysis.

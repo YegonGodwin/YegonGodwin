@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner](https://via.placeholder.com/1280x400/16213E/FFFFFF?text=Kibette's+Code+Galaxy) <!-- Replace with actual banner -->
+![Banner](https://via.placeholder.com/1280x400/16213E/FFFFFF?text=YegonGodwin's+Code+Galaxy) <!-- Replace with actual banner -->
 
 </div>
 

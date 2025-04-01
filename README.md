@@ -63,11 +63,11 @@ pie
  [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
 ---
 ### 💻 Most Used Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other&theme=dark&hide_border=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other&theme=synthwave&hide_border=true&show_icons=true)
   ---
   ### 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true&theme=merko&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave&hide_border=true&show_icons=true)
 ---
 ## Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true&random=123&theme=merko&hide_border=true)

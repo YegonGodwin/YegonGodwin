@@ -1,5 +1,5 @@
 # 🌌 Welcome to My GitHub Universe!
-[![Typing Demo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1500&color=58A6FF&repeat=true&width=500&height=80&lines=const+developer+=+new+Developer();;developer.skills+=+["AI",+"ML", + "WD"];console.log("Hello+World!");)]
+[![Humorous Autotyping](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1500&color=58A6FF&repeat=true&width=500&height=80&lines=Not+afraid+of+segfaults...+just+disappointed;Will+code+for+snacks;Documentation?+I+barely+know+her!;Life+before+death,+strength+before+weakness,+tests+before+commits;Ctrl+C,+Ctrl+V+enthusiast)](https://github.com/YegonGodwin/readme-typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=500&lines=Will+code+for+snacks;NaN+hours+since+last+bug;sudo+make+me+a+sandwich)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Python+%7C+R+%7C+SQL;Open+to+collaborate!" alt="Typing SVG" />

@@ -63,7 +63,7 @@ pie
  [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
 ---
 ### 💻 Most Used Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other&theme=synthwave&hide_border=true&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other&theme=tokyonight&hide_border=true&show_icons=true)
   ---
   ### 📊 My GitHub Stats
 

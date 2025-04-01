@@ -1,5 +1,5 @@
 # 🌌 Welcome to My GitHub Universe!
-[![Humorous Autotyping](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2500&pause=1500&color=FF00FF&repeat=true&width=500&height=80&lines=Not+afraid+of+segfaults...+just+disappointed;Will+code+for+snacks;Documentation?+I+barely+know+her!;Life+before+death,+strength+before+weakness,+tests+before+commits;Ctrl+C,+Ctrl+V+enthusiast)](https://github.com/YegonGodwin/readme-typing-svg)
+[![Humorous Autotyping](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2500&pause=1500&color=FF00FF&repeat=true&width=500&height=80&lines=Loading...(99%);Not+afraid+of+segfaults...+just+disappointed;Will+code+for+snacks;Documentation?+I+barely+know+her!;Life+before+death,+strength+before+weakness+tests+before+commits;Ctrl+C,+Ctrl+V+enthusiast)](https://github.com/YegonGodwin/readme-typing-svg)
 <div align="center">
   
  <!-- Replace with actual banner -->

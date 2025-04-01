@@ -1,5 +1,5 @@
 # 🌌 Welcome to My GitHub Universe!
-[![Typing Demo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1500&color=58A6FF&repeat=true&width=500&height=80&lines=const+developer+=+new+Developer();;developer.skills+=+["AI",+"ML"];console.log("Hello+World!");)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing Demo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1500&color=58A6FF&repeat=true&width=500&height=80&lines=const+developer+=+new+Developer();;developer.skills+=+["AI",+"ML", + "WD"];console.log("Hello+World!");)]
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Python+%7C+R+%7C+SQL;Open+to+collaborate!" alt="Typing SVG" />
 </div>
@@ -63,14 +63,14 @@ pie
  [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
 ---
 ### 💻 Most Used Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other&theme=dark&hide_border=true)
   ---
   ### 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true)
 ---
 ## Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true&random=123)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true&random=123&theme=dark&hide_border=true)
 ## 📊 Project Structure
 ```mermaid
 graph TD

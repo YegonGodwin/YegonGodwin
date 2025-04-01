@@ -1,4 +1,7 @@
 # 🌌 Welcome to My GitHub Universe!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Python+%7C+R+%7C+SQL;Open+to+collaborate!" alt="Typing SVG" />
+</div>
 
 <div align="center">
   

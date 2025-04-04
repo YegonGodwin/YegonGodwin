@@ -122,7 +122,7 @@ I’m always open to collaborating on exciting projects, discussing ideas, or ju
 
 
 ---
-[![Humorous Autotyping](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2500&pause=1500&color=FF00FF&repeat=true&width=800&height=70&lines=Thank+You+for+visiting;)](https://github.com/YegonGodwin/readme-typing-svg)
+[![Let's Connect](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2000&pause=1000&color=58A6FF&repeat=true&width=800&height=70&lines=✨+Thanks+for+visiting+my+profile!;🚀+Let's+build+something+amazing+together;💡+Open+to+collaborations+and+ideas;🌐+Connect+with+me+below👇)](https://github.com/YegonGodwin/readme-typing-svg)
 
 ## ✨✨ Mascot
 **coming soon... 🤡😈😎**

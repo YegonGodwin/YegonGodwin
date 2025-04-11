@@ -16,7 +16,7 @@
 ## 🔥 Core Strengths
 
 ```mermaid
-pie
+barchart
     title What I Bring
     "Creative Problem Solving" : 35
     "Clean Code" : 30

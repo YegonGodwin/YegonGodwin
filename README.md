@@ -62,7 +62,7 @@ pie
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true)
 ---
 ## Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Godwin Kibet&theme=default&mascot=true&random=123&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true&random=123&theme=tokyonight&hide_border=true)
 ## 📊 Project Structure
 ```mermaid
 graph TD

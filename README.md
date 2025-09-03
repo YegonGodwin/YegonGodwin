@@ -1,6 +1,17 @@
-# 🌌 Welcome to My GitHub Universe! 
-[![Humorous Autotyping](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2500&pause=1500&color=FF00FF&repeat=true&width=1000&height=70&lines=Loading...(99%);Not+afraid+of+segfaults...+just+disappointed;Will+code+for+snacks;Documentation?+I+barely+know+her!;Life+before+death,+strength+before+weakness+tests+before+commits;Ctrl+C,+Ctrl+V+enthusiast)](https://github.com/YegonGodwin/readme-typing-svg)
+# YegonGodwin / README.md
 
+### Welcome to My GitHub Universe! ✨
+
+I'm a software engineer who crafts elegant solutions and isn't afraid of a good challenge—or a segfault. 
+
+---
+
+### What I Do:
+* **Architect and build systems:** From front-end to back-end, I love turning complex ideas into scalable code.
+* **Solve problems:** I thrive on digging into bugs and finding the most efficient path forward.
+* **Embrace innovation:** Always exploring new tech to stay at the cutting edge.
+
+Feel free to explore my projects. Let's build something cool together!
 ## 🚀 ME
 
 <div align="center">

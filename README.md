@@ -1,5 +1,3 @@
-# YegonGodwin / README.md
-
 ### Welcome to My GitHub Universe! ✨
 
 I'm a software engineer who crafts elegant solutions and isn't afraid of a good challenge—or a segfault. 

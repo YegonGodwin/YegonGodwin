@@ -10,7 +10,7 @@ I'm a software engineer who crafts elegant solutions and isn't afraid of a good 
 * **Embrace innovation:** Always exploring new tech to stay at the cutting edge.
 
 Feel free to explore my projects. Let's build something cool together!
-## 🚀 ME
+## 🚀 Moonshot AI
 
 <div align="center">
 

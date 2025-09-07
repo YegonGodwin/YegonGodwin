@@ -1,10 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+👋;I'm+Godwin+Kibet;Software+Engineer;Data+Alchemist" alt="Animated Typing Header" />
-</div>
 
----
-
-### 🧠 &nbsp;About Me
+### 🧠 &nbsp;About
 
 I'm a passionate software engineer who thrives on architecting elegant systems and untangling complex problems. I see a segfault not as a failure, but as a puzzle waiting to be solved. I'm constantly exploring the cutting edge, always eager to learn and apply new technologies to build impactful solutions.
 

@@ -1,98 +1,97 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+👋;I'm+Godwin+Kibet;Software+Engineer;Data+Alchemist" alt="Animated Typing Header" />
+</div>
+
+---
+
+### 🧠 &nbsp;About Me
+
+I'm a passionate software engineer who thrives on architecting elegant systems and untangling complex problems. I see a segfault not as a failure, but as a puzzle waiting to be solved. I'm constantly exploring the cutting edge, always eager to learn and apply new technologies to build impactful solutions.
+
+> **"First, solve the problem. Then, write the code."** – John Johnson
+
+---
+
+<div align="center">
+
+### 🛠️ &nbsp;Tech Stack & Tools
+
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+**Frameworks & Libraries** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**Tools & Platforms** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+
+</div>
+
+---
+
+### 📈 &nbsp;GitHub Analytics
+
+<div align="center">
   
-# 👋 Hello, I'm Godwin Yegon
+<!-- Compact layout for stats side-by-side -->
+<a href="https://github.com/YegonGodwin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&theme=nightowl&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,Other" />
+</a>
 
-**Software Engineer & Data Scientist** crafting elegant solutions through code
+<!-- More modern streak stats with mascot -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=YegonGodwin&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&mascot=random)](https://git.io/streak-stats)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FlynnGoodie?style=social)](https://x.com/FlynnGoodie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/godwinkibet)
-[![Visitors](https://komarev.com/ghpvc/?username=YegonGodwin&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/YegonGodwin)
+<!-- 3D Contribution Graph -->
+[![Yegon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YegonGodwin&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🚀 What are you?
+### 🚀 &nbsp;Highlight Projects
 
-I'm a passionate software engineer who architects and builds systems from front-end to back-end. I thrive on solving complex problems and turning innovative ideas into scalable solutions. Always exploring new technologies to stay at the cutting edge of development.
+<!-- Replace with your actual pinned repo names and links -->
+**🤖 [Moonshot AI](https://github.com/YegonGodwin/moonshot-ai)** - A machine learning platform for...
+**📊 [DataViz Suite](https://github.com/YegonGodwin/dataviz-suite)** - Interactive dashboards built with...
+**🌐 [Web3 Catalyst](https://github.com/YegonGodwin/web3-catalyst)** - A project exploring...
+
+*💡 Explore more of my work on the [Repositories](https://github.com/YegonGodwin?tab=repositories) tab.*
+
+---
+
+### 🌐 &nbsp;Let's Connect & Collaborate!
+
+I'm always excited to discuss new ideas, collaborate on innovative projects, or just chat about tech. Don't hesitate to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Godwin_Kibet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwinkibet)
+[![X (Twitter)](https://img.shields.io/badge/X-@FlynnGoodie-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FlynnGoodie)
+[![Instagram](https://img.shields.io/badge/Instagram-@godwinkibette-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/godwinkibette)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
 
 <div align="center">
 
-### 🎯 Quick Overview
-
-| **Role** | **Skills** | **Passions** |
-| :--- | :--- | :--- |
-| 💻 Software Developer | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | 🧠 Machine Learning |
-| 📊 Data Scientist | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | 🔍 Data Analysis |
-| 🌐 Full Stack Developer | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | 🛠️ Building Solutions |
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYegonGodwin&label=Profile%20Views&countColor=%2358a6ff&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FYegonGodwin)
+[![Repositories](https://img.shields.io/badge/Repositories-20+-blue?style=flat)](https://github.com/YegonGodwin?tab=repositories)
 
 </div>
-
----
-
-## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Other)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=radical&hide_border=true&background=00000000)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+stopping+by!+✨;Let's+build+the+future,+together.🚀" alt="Animated Footer" />
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-
----
-📫 Let’s Connect!
-
-I’m always open to collaborating on exciting projects, discussing ideas, or just having a chat. Feel free to reach out to me.
-### 🌐 Connect with Me
-
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FlynnGoodie)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/godwinkibette)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwinkibet)
-
----
-### 🏅 GitHub Profile Badges
-
-- **Followers**:           [![GitHub Followers](https://img.shields.io/github/followers/YegonGodwin?label=Followers&style=for-the-badge&color=orange)](https://github.com/YegonGodwin)
-- **Public Repositories**: [![GitHub Repos](https://img.shields.io/github/repo-size/YegonGodwin/YegonGodwin?label=Repos&style=for-the-badge&color=blue)](https://github.com/yourusername?tab=repositories)
- ---
-- **GitHub Trophy**:       [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YegonGodwin&theme=dark&row=1&column=5&margin-w=15&margin-h=15)](https://github.com/YegonGodwin)
-
-
----
-[![Let's Connect](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2000&pause=1000&color=58A6FF&repeat=true&width=800&height=70&lines=✨+Thanks+for+visiting+my+profile!;🚀+Let's+build+something+amazing+together;💡+Open+to+collaborations+and+ideas;🌐+Connect+with+me+above👆💪🏻)](https://github.com/YegonGodwin/readme-typing-svg)
-
-## ✨✨ Mascot
-**coming soon... 🤡😈😎**
-<!---
-YegonGodwin/YegonGodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

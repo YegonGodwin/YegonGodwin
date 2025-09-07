@@ -1,109 +1,88 @@
-### Welcome to My GitHub Universe! ✨
-
-I'm a software engineer who crafts elegant solutions and isn't afraid of a good challenge—or a segfault. 
-
----
-
-### What I Do:
-* **Architect and build systems:** From front-end to back-end, I love turning complex ideas into scalable code.
-* **Solve problems:** I thrive on digging into bugs and finding the most efficient path forward.
-* **Embrace innovation:** Always exploring new tech to stay at the cutting edge.
-
-Feel free to explore my projects. Let's build something cool together!
-## 🚀 Moonshot AI
-
 <div align="center">
+  
+# 👋 Hello, I'm Godwin Yegon
 
-| **Role**              | **Skills**               | **Passions**            |
-|-----------------------|--------------------------|-------------------------|
-| 💻 Software Developer | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) | 🧠 Machine Learning |
-| 📊 Data Scientist     | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | 🔍 Data Analysis |
-| 🌐 Problem Solver     | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Shiny](https://img.shields.io/badge/-Shiny-092E20?logo=Shiny&logoColor=white) | 🛠️ Building Solutions |
+**Software Engineer & Data Scientist** crafting elegant solutions through code
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/FlynnGoodie?style=social)](https://x.com/FlynnGoodie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/godwinkibet)
+[![Visitors](https://komarev.com/ghpvc/?username=YegonGodwin&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/YegonGodwin)
 
 </div>
 
-## 🔥 Core Strengths
-
-```mermaid
-pie
-    title What I Bring
-    "Creative Problem Solving" : 35
-    "Clean Code" : 30
-    "Data Insights" : 25
-    "Collaboration" : 10
-```
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-
-***
-
-### 🛠️ Frameworks & Libraries
-
- [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
- [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
- [![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
- [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
- [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
- [![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
- [![Shiny](https://img.shields.io/badge/shiny-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://shiny.posit.co/)
- [![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-
-   ---
-
-### ⚙️ Tools & Platforms
-
- [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
- [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
- [![VS Code](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
- [![RStudio](https://img.shields.io/badge/rstudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://posit.co/products/open-source/rstudio/)
 ---
-### 💻 Most Used Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&langs_count=8&hide=Jupyter%20Notebook,Other&theme=tokyonight&hide_border=true&show_icons=true)
-  ---
-  ### 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true)
----
-### Pace
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=default&mascot=true&random=123&theme=tokyonight&hide_border=true)
-## 📊 Project Structure
-```mermaid
-graph TD
-  A[Client] --> B[Server]
-  B --> C[Database]
-```
-## 🎥 Demo
-![Demo GIF](demo.gif)
+## 🚀 About Me
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YegonGodwin&theme=github)
+I'm a passionate software engineer who architects and builds systems from front-end to back-end. I thrive on solving complex problems and turning innovative ideas into scalable solutions. Always exploring new technologies to stay at the cutting edge of development.
+
+<div align="center">
+
+### 🎯 Quick Overview
+
+| **Role** | **Skills** | **Passions** |
+| :--- | :--- | :--- |
+| 💻 Software Developer | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | 🧠 Machine Learning |
+| 📊 Data Scientist | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | 🔍 Data Analysis |
+| 🌐 Full Stack Developer | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | 🛠️ Building Solutions |
+
+</div>
 
 ---
-![Languages](https://img.shields.io/badge/-Batchfile-000000?style=flat&logo=gnubash)
-![Languages](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
-![Languages](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![Languages](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Languages](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![Languages](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 
-## My Coding Journey Timeline
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YegonGodwin&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=00000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YegonGodwin&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Other)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YegonGodwin&theme=radical&hide_border=true&background=00000000)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
+---
+
+## 📈 Coding Journey
 
 ```mermaid
 gantt
     title My Programming Language Timeline
     dateFormat  YYYY-MM
+    axisFormat %Y
     section Languages
-    Batchfile   :2020-12, 2021-05
-    C           :2021-05, 2021-10
-    C++         :2021-10, 2022-03
-    Python      :2022-03, 2023-11
-```
-
+    Batchfile   :2020-12, 5mo
+    C           :2021-05, 5mo
+    C++         :2021-10, 5mo
+    Python      :2022-03, 20mo
+    JavaScript/TypeScript :2023-01, 12mo
 ### 5. **GitHub Skyline**
 For a 3D visualization of your activity:
 ```markdown

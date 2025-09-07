@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 What are you?
 
 I'm a passionate software engineer who architects and builds systems from front-end to back-end. I thrive on solving complex problems and turning innovative ideas into scalable solutions. Always exploring new technologies to stay at the cutting edge of development.
 
@@ -69,28 +69,6 @@ I'm a passionate software engineer who architects and builds systems from front-
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ---
-
-## 📈 Coding Journey
-
-```mermaid
-gantt
-    title My Programming Language Timeline
-    dateFormat  YYYY-MM
-    axisFormat %Y
-    section Languages
-    Batchfile   :2020-12, 5mo
-    C           :2021-05, 5mo
-    C++         :2021-10, 5mo
-    Python      :2022-03, 20mo
-    JavaScript/TypeScript :2023-01, 12mo
-### 5. **GitHub Skyline**
-For a 3D visualization of your activity:
-```markdown
-[![GitHub Skyline](https://skyline.github.com/YegonGodwin/2023)](https://skyline.github.com)
-
-```
----
-
 📫 Let’s Connect!
 
 I’m always open to collaborating on exciting projects, discussing ideas, or just having a chat. Feel free to reach out to me.
